@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+
+.mainText{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+.secondaryText{
+    color: white;
+}
+
+.mainImage{
+    width: 100%;
+    border: 5px solid white;
+
+}
+
+.mainDiv{
+    margin-left: 25%;
+    margin-top: 50px;
+    width: 50%;
+    text-align: center;
+}
+
