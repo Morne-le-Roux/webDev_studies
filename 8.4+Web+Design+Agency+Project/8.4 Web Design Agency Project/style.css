@@ -19,11 +19,23 @@ footer {
   color: midnightblue;
 }
 
-.title-image {
+.left {
   float: left;
-  height: 200px;
 }
 
+.right {
+  float: right;
+}
+
+.tile-image {
+  height: 200px;
+  float: left;
+  margin: 50px;
+}
+
+
+
+
 .card {
-  flex: 0.5;
+  width: 45%;
 }
